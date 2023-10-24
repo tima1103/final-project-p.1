@@ -1,0 +1,132 @@
+.upperside{
+    background-color: lime;
+    display: flex;
+    justify-content: space-around;
+}
+.menu{
+    background-color: cornflowerblue;
+    justify-content: space-between;
+    text-decoration: none;
+    display: flex;
+}
+.downside{
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: space-around;
+}
+.link{
+    margin-right: 20px;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+}
+.main{
+    color: white;
+    background-color: #1d1d1d;
+    
+}
+.button{
+   font-style: italic;
+   font-weight: 700;
+   position: relative;
+   max-width: 100%;
+   background-color: #0093E9;
+   background-image: linear-gradient(to right, #00d2ff 0%, #3a7bd5 51%, #00d2ff 100%);
+   left: 300px;
+   bottom: 400px;
+}
+.main-img{
+    width: 700px;
+}
+.preferences{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.wrapper{
+    display: flex;
+    justify-content: space-around;
+   align-items: center;
+}
+.item{
+    margin-right: 100px;
+}
+.textfavourites{
+    display: flex;
+    justify-content: center;
+   
+}
+.wrapper-2{
+    display: flex;
+    justify-content: center;
+    
+}
+.item-2{
+    margin-right: 100px;
+}
+.button:hover{
+    width: 150px;
+    height: 150px;
+}
+.card{
+    display: flex;
+    margin: 30px;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.center{
+    text-align: center;
+}
+.box-3{
+    display: flex;
+    justify-content: space-between;
+}
+footer{
+    background-color: #1d1d1d;
+    color: white;
+}
+.box{
+    background-color: #1d1d1d;
+}
+.box-5{
+    display: flex;
+    align-items: center;
+}
+.box6{
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    font-family: 'Playpen Sans', cursive;
+}
+.games{
+    margin: 30px;
+}
+.imggames{
+    height: 300px;
+}
+.agamescs{
+    color: yellow;
+}
+.agamesmine{
+    color: white;
+}
+.agamesfort{
+    color: red;
+}
+.footercolor1{
+    color: red
+}
+.footercolor2{
+    color: #00d2ff;
+}
+.footercolor3{
+    color: #3a7bd5; 
+}
